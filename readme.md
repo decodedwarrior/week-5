@@ -24,4 +24,3 @@ This week's focus is on mastering database management using MongoDB and seamless
         * **User Login:** Implementing the login process, which involves receiving user credentials, querying the database for the user, comparing the entered password with the stored (hashed) password, and establishing a user session upon successful authentication.
         * **Session Management (Optional but Recommended):** Understanding how to maintain user sessions after login, often involving techniques like using JSON Web Tokens (JWT) or server-side sessions to keep users logged in across requests.
 
-By the end of this week, you will have gained practical experience in managing data with MongoDB through Node.js, leveraging the power of Mongoose, and implementing a fundamental yet crucial feature: user authentication.
